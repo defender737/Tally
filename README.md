@@ -59,7 +59,7 @@ Tally는 소상공인을 위한 매출·지출 통합 관리 웹 서비스입니
 <img src="images/skills/AWSEC2.png" width="80">
 <img src="images/skills/Docker.png" width="80">
 <img src="images/skills/Nginx.png" width="80">
-<img src="images/skills/MySql.png" width="80">
+<img src="images/skills/Mysql.png" width="80">
 <img src="images/skills/Redis.png" width="80">
 </div>
 
