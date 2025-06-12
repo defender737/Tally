@@ -142,4 +142,11 @@ Tally는 소상공인을 위한 매출·지출 통합 관리 웹 서비스입니
 <img src="images/ERD.png">
 
 
-## 🤔 기술적 이슈와 해결 과정
+## 🧠 아티클
+📦 [헥사고날 아키텍처, 내 프로젝트에 정말 필요했을까?](https://velog.io/@defender737/%ED%97%A5%EC%82%AC%EA%B3%A0%EB%82%A0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%82%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%95%EB%A7%90-%ED%95%84%EC%9A%94%ED%96%88%EC%9D%84%EA%B9%8C)
+
+🔐 [JWT 인증 방식 도입](https://velog.io/@defender737/JWT-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EC%8B%9D-%EB%8F%84%EC%9E%85)
+
+📊 [통계 데이터를 어떻게 조회할까?](https://velog.io/@defender737/%ED%86%B5%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%ED%9A%8C%ED%95%A0%EA%B9%8C)
+
+🌐 [리버스 프록시](https://velog.io/@defender737/%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%94%84%EB%A1%9D%EC%8B%9C)
